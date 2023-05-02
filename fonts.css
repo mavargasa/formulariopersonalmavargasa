@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@200&display=swap');
+h1{
+
+
+
+    
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: bold;
+    text-decoration: none;
+
+ 
+}
+
+h2{
+   
+    font-family: 'DynaPuff', cursive;
+    font-style: italic;
+    text-decoration: overline;
+
+}
+
+h3 {
+  
+    font-family: 'Big Shoulders Display', cursive;
+    font-variant: small-caps;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h4{
+    text-transform: uppercase;
+    text-decoration:line-through ;
+}
+
+h5{
+    font-size: 40px;
+    text-decoration: blink;
+}
